@@ -1,5 +1,8 @@
 _repo: By-Reef-and-Palm_3818
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Becke, Louis
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1317
     wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3818#By-Reef-and-Palm
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
 identifiers:
